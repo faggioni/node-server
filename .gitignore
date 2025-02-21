@@ -12,3 +12,8 @@
 #!.yarn/cache
 .pnp.*
 */.idea/*
+/.idea/git_toolbox_blame.xml
+/.idea/git_toolbox_prj.xml
+/.idea/google-java-format.xml
+/.idea/modules.xml
+/.idea/node-server.iml
