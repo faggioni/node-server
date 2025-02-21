@@ -17,3 +17,4 @@
 /.idea/google-java-format.xml
 /.idea/modules.xml
 /.idea/node-server.iml
+node_modules
