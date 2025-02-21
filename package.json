@@ -1,4 +1,7 @@
 {
   "name": "node-server",
-  "packageManager": "yarn@4.5.0"
+  "packageManager": "yarn@4.5.0",
+  "scripts": {
+    "start": "node index.js"
+  }
 }
